@@ -6,5 +6,5 @@
   tasks:
   - name: Criando um arquivo vazio
     file:
-      path: "/tmp/teste1"
+      path: "/tmp/teste-awx"
       state: touch
