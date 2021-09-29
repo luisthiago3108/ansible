@@ -1,5 +1,14 @@
-[dbserver]
+[db-treinamento]
 suporte@13.82.25.244
 
-[webserver]
+[web-treinamento]
 suporte@40.121.222.205
+
+[amt-fas-deploy01]
+fasolti@200.189.104.139
+
+[amt-apps03]
+fasolti@200.189.104.133
+
+[amt-apps02]
+fasolti@200.189.104.132
